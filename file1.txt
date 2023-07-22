@@ -1,1 +1,2 @@
 fisierul1 linia1 adugata pe laptop
+am adaugat si linia2, direct in main
