@@ -1,3 +1,4 @@
 fisierul1 linia1 adugata pe laptop
 am adaugat si linia2, direct in main
-am adaugat si linia3, direct in main
+am modificat si linia3, direct in main aici din free
+am adaugat si linia66, direct in main
