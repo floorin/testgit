@@ -2,6 +2,6 @@ fisierul1 linia1 adugata pe laptop
 am adaugat si linia2, direct in main
 am modificat si linia3, direct in main 
 am adaugat si linia4, direct in main
-am adaugat si linia5, direct in main
+modificata linia 5 in branchul dev1
 am modificat si linia3, direct in main aici din free
 am adaugat si linia66, direct in maindee
